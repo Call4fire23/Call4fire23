@@ -1,4 +1,8 @@
-<img width="150" alt="image"  src="https://github.com/user-attachments/assets/3d6482f4-cf6f-435d-8ad2-573ce242469f" />![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/Call4fire23.png)<img width="150" alt="image"  src="https://github.com/user-attachments/assets/3d6482f4-cf6f-435d-8ad2-573ce242469f" />
+<div align="center">
+  🤡 <br>
+  <img src="https://tryhackme-badges.s3.amazonaws.com/Call4fire23.png"><br>
+   🤡
+</div>
 
 
 
