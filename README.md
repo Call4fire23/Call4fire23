@@ -1,4 +1,6 @@
-## Hi there 👋
+<img width="150" alt="image"  src="https://github.com/user-attachments/assets/3d6482f4-cf6f-435d-8ad2-573ce242469f" />![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/Call4fire23.png)<img width="150" alt="image"  src="https://github.com/user-attachments/assets/3d6482f4-cf6f-435d-8ad2-573ce242469f" />
+
+
 
 <!--
 **Call4fire23/Call4fire23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
